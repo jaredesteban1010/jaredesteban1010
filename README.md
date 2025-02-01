@@ -9,7 +9,7 @@
 
 <!-- Animated Name -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Futura&size=40&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Jared Esteban!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Futura&size=40&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Jared.Esteban!;" />
 </h1>
 
 <!-- Subtitle -->
