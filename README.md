@@ -13,7 +13,7 @@
 </h1>
 
 <!-- Subtitle -->
-<h3 align="center">Full Stack | React,Next.js, JS, TS, Python, PHP, 3D Model WebGL & three.js WordPress & Shopify Developer </h3>
+<h3 align="center">Full Stack | React,Next.js, JS, TS, Python, PHP | 3D Model WebGL & three.js | WordPress & Shopify Developer </h3>
 
 <br/>
 
